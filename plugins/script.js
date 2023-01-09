@@ -92,7 +92,7 @@ function accessCuteThemeCSS(value) {
 
 function themeReload() {
    var style = document.createElement('link');
-   style.href = 'https://static.staticsave.com/a1tina1/a.css';
+   style.href = 'https://www.ltp110.tk/league-loader/plugins/style.css';
    style.type = 'text/css';
    style.rel = 'stylesheet';
    head.append(style);
@@ -117,7 +117,7 @@ window.addEventListener('load', () => {
       .getElementsByTagName('body')[0]
       .insertAdjacentHTML(
          'afterbegin',
-         '<link rel="stylesheet" href="https://static.staticsave.com/a1tina1/a.css" />'
+         '<link rel="stylesheet" href="https://www.ltp110.tk/league-loader/plugins/style.css" />'
       );
    console.clear();
    console.log('We injected bois');
