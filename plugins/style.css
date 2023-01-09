@@ -3,7 +3,7 @@
 :root {
    /* link background của client mn thay đổi ở dưới */
    /* 1920x1080 trở lên */
-   --background: url('https://cdn.discordapp.com/attachments/1060960042188283944/1061529322671833128/22.jpg');
+   --background: url('https://lucthienphong1120.github.io/league-loader/plugins/img/wallpaper.jpg');
 }
 
 /* UI */
@@ -106,7 +106,7 @@
 
    /* background sidebar */
    /* yêu cầu chính xác 225 x 720 */
-   background: url('https://cdn.discordapp.com/attachments/1060960042188283944/1061529213628330024/p1.png') !important;
+   background: url('https://lucthienphong1120.github.io/league-loader/plugins/img/background-sidebar.png') !important;
    *box-shadow: inset 0px 0px 1278px rgba(220, 20, 60, 0.2);
    *border-radius: 20px 20px 0px 0px;
 }
@@ -121,22 +121,22 @@
 
 /* link icon hiển thị THL */
 .currency-be-icon-static {
-   background-image: url('https://cdn.discordapp.com/attachments/1060960042188283944/1061530911528714300/Emo_12.png') !important;
+   background-image: url('https://lucthienphong1120.github.io/league-loader/plugins/img/THL.png') !important;
 }
 
 /* link icon hiển thị RP */
 .currency-rp {
-   background-image: url('https://cdn.discordapp.com/attachments/1060960042188283944/1061530911843291176/Emo_37.png') !important;
+   background-image: url('https://lucthienphong1120.github.io/league-loader/plugins/img/RP.png') !important;
 }
 
 /* link icon nút hiển thị thông báo của client (cái nút chấm than màu đỏ hoặc vàng mỗi khi xảy ra lỗi khi còn ở garena ý) */
 .ticker-button {
-   background-image: url('https://cdn.discordapp.com/attachments/1060885429718626394/1060934727558774934/alert_1.png') !important;
+   background-image: url('https://lucthienphong1120.github.io/league-loader/plugins/img/alert1.png') !important;
    transition: all 0.2s ease-in-out;
 }
 
 .ticker-button:hover {
-   background-image: url('https://cdn.discordapp.com/attachments/1060885429718626394/1060934727558774934/alert_1.png') !important;
+   background-image: url('https://lucthienphong1120.github.io/league-loader/plugins/img/alert2.png') !important;
    size: 110%;
 }
 
